@@ -8,3 +8,5 @@ Troughout of the game the browser will ask you what do you choose and after 5 ro
 Are you capable to win in my game?
 
 Well, there is just one way to know that. click the link below ->
+
+-https://palacios97.github.io/rock-paper-scissors/
