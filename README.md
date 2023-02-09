@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-Welcome to my second assignment.
+Welcome to my third brainnest assignment.
 I had to build a game playable from the console putting in practice basic logic concepts in order to have a rock-paper-scissors game.
 
 Troughout of the game the browser will ask you what do you choose and after 5 round we will know the winner.
